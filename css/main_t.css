@@ -1,0 +1,88 @@
+@media (max-width: 1238px) {
+  #header .header_inner {
+    width: 98%;
+    margin: 0 1%; }
+    #header .header_inner nav .mnb {
+      background: url("../images/menu.png") no-repeat center center;
+      width: 30px;
+      height: 30px;
+      display: block;
+      margin-top: 4px; }
+    #header .header_inner nav > ul {
+      padding: 20px 24px;
+      background: rgba(0, 0, 0, 0.7);
+      position: absolute;
+      z-index: 30;
+      top: 0;
+      right: 0;
+      margin-right: -175px;
+      display: none;
+      height: 100%; }
+      #header .header_inner nav > ul .end {
+        display: block; }
+        #header .header_inner nav > ul .end button {
+          color: #fff;
+          font-size: 24px;
+          position: relative;
+          margin-left: 64px;
+          margin-top: 80px; }
+      #header .header_inner nav > ul > li {
+        float: none; }
+
+  .dep {
+    background: 0;
+    display: block; }
+    .dep li a {
+      color: #f1ae4f;
+      padding: 4px 20px 4px 32px; }
+      .dep li a:hover {
+        background: 0; } }
+@media (max-width: 1238px) {
+  #footer {
+    height: auto; }
+    #footer .footer_inner {
+      width: 100%; }
+      #footer .footer_inner p {
+        float: none;
+        text-align: center;
+        margin-right: 0; }
+      #footer .footer_inner ul {
+        float: none;
+        text-align: center; }
+      #footer .footer_inner .fnb {
+        float: none;
+        text-align: center; } }
+@media (max-width: 1238px) {
+  /* top */
+  .top {
+    width: 100%; }
+    .top ul li {
+      width: 31%;
+      margin: 0 1%; }
+
+  /* banner */
+  .banner .b_wrap {
+    width: 100%;
+    text-align: center; }
+    .banner .b_wrap > div {
+      margin: 12px 0; }
+      .banner .b_wrap > div img {
+        width: 100%; }
+    .banner .b_wrap .notice {
+      text-align: left;
+      width: 86%;
+      margin: 12px 7%;
+      float: none; }
+    .banner .b_wrap .banner01 {
+      width: 42%;
+      margin: 12px 1% 12px 7%; }
+    .banner .b_wrap .banner02 {
+      width: 42%;
+      margin: 12px 7% 12px 1%; }
+
+  /* bottom */
+  .bottom .b_wrap {
+    width: 98%;
+    margin: 0 1%; } }
+
+/*# sourceMappingURL=main_t.css.map */

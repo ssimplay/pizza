@@ -1,0 +1,18 @@
+@media (max-width: 1238px) {
+  /* sub */
+  #sub .sub_inner {
+    width: 100%; }
+
+  /* snb */
+  .snb {
+    display: none; }
+
+  /* sub_cont */
+  .sub_cont {
+    float: none;
+    width: 98%;
+    margin: 0 1%; }
+    .sub_cont .contant p span {
+      display: inline; } }
+
+/*# sourceMappingURL=sub_t.css.map */

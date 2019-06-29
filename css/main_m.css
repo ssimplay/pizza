@@ -1,0 +1,18 @@
+/* top */
+.top ul li {
+  width: 48%;
+  margin: 0 1%; }
+
+/* banner */
+.banner .b_wrap .banner01, .banner .b_wrap .banner02 {
+  float: none;
+  width: 86%;
+  margin: 12px 7%; }
+
+/* bottom */
+.bottom .b_wrap {
+  text-align: center; }
+  .bottom .b_wrap h4 {
+    background-position: center bottom; }
+
+/*# sourceMappingURL=main_m.css.map */
